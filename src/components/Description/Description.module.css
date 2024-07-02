@@ -1,0 +1,7 @@
+.descriptionTitle {
+    margin-bottom: 16px;
+}
+
+.descriptionTitle+p {
+    margin-bottom: 8px;
+}
